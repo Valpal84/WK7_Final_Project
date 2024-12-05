@@ -1,6 +1,31 @@
-# Final Project: Article Summarizer
+# Final Project for Web Mining and Natural Language Processing: Article Summarizer
+Valerie Johnson, December 5, 2024
+GitHub Repo: https://github.com/Valpal84/WK7_Final_Project
 
-Complete the tasks in the Python Notebook in this repository.
+Clone the starter repo to your device
+
+Using VS Code you can clone the repo to your machine. 
+Add the repo to your workspace.
+Make sure you have a ReadMe file and a .gitignore file.
+
+Create a virtual environment for your project.
+
+Install necessary dependencies in the summarizer notebook:
+Numpy
+SpacyTextBlob
+Spacy
+Counter
+BeautifulSoup4
+Requests
+Matplotlib
+Blob
+Html5lib
+Nltk
+TextBlob
+Pickle
+
+Complete all listed tasks in the .ipynb file while ensuring you label all of the questions appropriately. 
+
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
 ## Rubric
@@ -23,3 +48,7 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 11) Number of sentences printed: 1 pt
 * (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
 * (Question 13) Thoughtful answer based on summaries: 1 pt
+
+In the .gitignore file add .venv/ so that the virtual environment updates aren't sent to GitHub
+
+Ensure your ReadMe file is updated appropriately.
